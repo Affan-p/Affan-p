@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Affan-p
 - 👀 I’m interested in AI and ML 
-- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Projects
 
 <!---
